@@ -1,0 +1,6 @@
+py migrate.py db init
+py migrate.py db migrate
+py migrate.py db upgrade
+
+drop tables /
+select / from /

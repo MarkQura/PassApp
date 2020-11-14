@@ -1,0 +1,13 @@
+D:\Program Files\PassWordApp\pass-desktop\bin\Debug\netcoreapp3.1\pass-desktop.exe
+D:\Program Files\PassWordApp\pass-desktop\bin\Debug\netcoreapp3.1\pass-desktop.deps.json
+D:\Program Files\PassWordApp\pass-desktop\bin\Debug\netcoreapp3.1\pass-desktop.runtimeconfig.json
+D:\Program Files\PassWordApp\pass-desktop\bin\Debug\netcoreapp3.1\pass-desktop.runtimeconfig.dev.json
+D:\Program Files\PassWordApp\pass-desktop\bin\Debug\netcoreapp3.1\pass-desktop.dll
+D:\Program Files\PassWordApp\pass-desktop\bin\Debug\netcoreapp3.1\pass-desktop.pdb
+D:\Program Files\PassWordApp\pass-desktop\obj\Debug\netcoreapp3.1\pass-desktop.csprojAssemblyReference.cache
+D:\Program Files\PassWordApp\pass-desktop\obj\Debug\netcoreapp3.1\pass-desktop.AssemblyInfoInputs.cache
+D:\Program Files\PassWordApp\pass-desktop\obj\Debug\netcoreapp3.1\pass-desktop.AssemblyInfo.cs
+D:\Program Files\PassWordApp\pass-desktop\obj\Debug\netcoreapp3.1\pass-desktop.csproj.CoreCompileInputs.cache
+D:\Program Files\PassWordApp\pass-desktop\obj\Debug\netcoreapp3.1\pass-desktop.dll
+D:\Program Files\PassWordApp\pass-desktop\obj\Debug\netcoreapp3.1\pass-desktop.pdb
+D:\Program Files\PassWordApp\pass-desktop\obj\Debug\netcoreapp3.1\pass-desktop.genruntimeconfig.cache
